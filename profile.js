@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var EventEmitter = require("events").EventEmitter;
 var http = require("http");
 var https = require("https");
@@ -93,4 +92,3 @@ function get(username) {
 
 
 module.exports.get = get;
->>>>>>> 3ddabab8d6acfbc278edc986faeadfdc8a2ac07b
